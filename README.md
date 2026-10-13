@@ -1,0 +1,2 @@
+# Kerzi-Ai-TradeDesktop
+Agentsbot
